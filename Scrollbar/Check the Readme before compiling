@@ -1,0 +1,14 @@
+> As this program doesn't contain "Applet Code" make sure you run this using the following way:
+
+copy paste if possioble;
+1. open cmd
+2. add your path using cd C:\User\add\to\path (Add your path)
+3. Check the files you have created is avaible in your file using dir (run it on cmd prompt)
+4. Now, type or copy this javac Scroll.java and press enter key...
+5. If there is no warning you can goto next step, if there is an error or warning then re check the code and correct
+
+NOTE: In this code we haven't read Applet Code so you can run it directly as follows
+
+6. to run this code type or copy this java scroll.java and press enter key..
+
+Thank You!!
